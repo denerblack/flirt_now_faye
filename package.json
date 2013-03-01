@@ -1,0 +1,11 @@
+{
+  "name": "faye_server",
+  "version": "0.0.1",
+  "dependencies": {
+    "faye": "0.8.8"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
